@@ -21,7 +21,7 @@ By combining both, I was able to compare how market behavior aligns (or doesn’
 - Pandas  
 - Matplotlib  
 - yfinance  
-- Web scraping (BeautifulSoup / pandas.read_html)
+- Web scraping (BeautifulSoup)
 
 ---
 
@@ -33,7 +33,7 @@ The project includes:
 - Tesla revenue over time  
 - GameStop stock price over time  
 - GameStop revenue over time  
-- Combined comparison: Tesla stock price vs revenue (dual-axis chart)
+- Comparison: Tesla stock price vs revenue
 
 ---
 
